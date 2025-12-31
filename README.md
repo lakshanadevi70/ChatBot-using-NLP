@@ -20,7 +20,7 @@ A simple conversational chatbot built using Natural Language Processing (NLP) an
   - Prediction: Choosing responses based on model output
 
 ## 📂 Files
-   project/
+   - project
       - ├── chatbot.py            # Main Python script (your code)
       - ├── Data.json             # Chat intents with patterns & responses
    
@@ -37,10 +37,10 @@ A simple conversational chatbot built using Natural Language Processing (NLP) an
 
 ## 🧠 Example Interaction
 - User: Hello
-- Chatbot: Hi there, how can I help?
+  Chatbot: Hi there, how can I help?
 
 - User: Tell me a joke
-- Chatbot: Haha, you’re funny 😄
+  Chatbot: Haha, you’re funny 😄
 
 ## 🎯 Learning Outcomes
   - Understanding NLP preprocessing steps
