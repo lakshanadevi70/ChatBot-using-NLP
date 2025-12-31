@@ -21,8 +21,8 @@ A simple conversational chatbot built using Natural Language Processing (NLP) an
 
 ## 📂 Files
    project/
-      ├── chatbot.py            # Main Python script (your code)
-      ├── Data.json             # Chat intents with patterns & responses
+      - ├── chatbot.py            # Main Python script (your code)
+      - ├── Data.json             # Chat intents with patterns & responses
    
 ## 🚀 How to Run
 1.Install required packages:
@@ -36,11 +36,11 @@ A simple conversational chatbot built using Natural Language Processing (NLP) an
 5.Type any message and the bot will reply!
 
 ## 🧠 Example Interaction
-User: Hello
-Chatbot: Hi there, how can I help?
+- User: Hello
+- Chatbot: Hi there, how can I help?
 
-User: Tell me a joke
-Chatbot: Haha, you’re funny 😄
+- User: Tell me a joke
+- Chatbot: Haha, you’re funny 😄
 
 ## 🎯 Learning Outcomes
   - Understanding NLP preprocessing steps
